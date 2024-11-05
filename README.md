@@ -162,8 +162,8 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliDeV7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliDeV7&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aminhm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aminhm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -189,4 +189,4 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
  </p>
 
 ----
-<p align="center"><img src="https://profile-counter.glitch.me/{AliDeV7}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{aminhm}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>

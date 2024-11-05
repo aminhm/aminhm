@@ -13,7 +13,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://www.linkedin.com/in/amin-hasanzadeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
   </a>
-<!--   <a href="https://stackoverflow.com/users/10786639/ali-ahmadi" target="_blank">
+<!--   <a href="https://stackoverflow.com/users/10786639/-ahmadi" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="example"/>
   </a> -->
 <!--   <a href="https://t.me/AliDev77" target="_blank">
@@ -50,8 +50,8 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
 
 ### 🛠 &nbsp;My Skills
 
-<h4 align="left">Languages</h4>
-<p align="left">
+<h4 gn="left">Languages</h4>
+<p gn="left">
   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
       alt="C-Sharp"/>
@@ -74,8 +74,8 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
   </a>
 </p>
   
-<h4 align="left">Backend</h4>
-<p align="left">
+<h4 gn="left">Backend</h4>
+<p gn="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" target="_blank"> 
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
       alt="netcore"/> 
@@ -85,8 +85,8 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
       alt="netcore"/> 
   </a>
 </p>
-<h4 align="left">Frontend</h4>
-<p align="left">
+<h4 gn="left">Frontend</h4>
+<p gn="left">
   <a href="https://docs.microsoft.com/en-us/xamarin/" target="_blank">
     <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"
       alt="Xamarin"/>
@@ -100,8 +100,8 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
   </a>
 </p>
 
-<h4 align="left">Database</h4>
-<p align="left">
+<h4 gn="left">Database</h4>
+<p gn="left">
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
       alt="mssql"/> 
@@ -116,16 +116,16 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
   </a> 
 </p>
 
-<h4 align="left">Test</h4>
-<p align="left"> 
+<h4 gn="left">Test</h4>
+<p gn="left"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium" /> 
   </a> 
 </p>
 
-<h4 align="left">Version Control & CI/CD</h4>
-<p align="left">
+<h4 gn="left">Version Control & CI/CD</h4>
+<p gn="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -143,8 +143,8 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
   </a>
 </p>
 
-<h4 align="left">Preferred IDEs  & Tools</h4>
-<p align="left">
+<h4 gn="left">Preferred IDEs  & Tools</h4>
+<p gn="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vsCode"/> 
   </a>
@@ -160,7 +160,7 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p gn="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aminhm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aminhm&layout=compact&langs_count=8&theme=algolia"/>
@@ -171,22 +171,22 @@ I have good problem-solving skills and Able to perform well in a team. ☺️
 ----
   
 ### 🎲 &nbsp;Pixle Snake ... 
-<p align="center">
+<p gn="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-<p align="center">
+<p gn="center">
 
   <a href="https://steamcommunity.com/profiles/76561198928284121/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="example"/>
   </a>
-  <a href="https://psnprofiles.com/AliDEvil7" target="_blank">
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="AliDEvil7"/>
+  <a href="https://psnprofiles.com/aminhm" target="_blank">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="aminhm"/>
   </a>
-    <img src="https://img.shields.io/badge/Battle.net : AliDEvil77 -000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="AliDEvil77#2262"/>
-    <img src="https://img.shields.io/badge/Origin : AliDEvil777 -FF8000?style=for-the-badge&logo=origin&logoColor=white" alt="AliDEvil777"/>
+    <img src="https://img.shields.io/badge/Battle.net : aminhm -000?style=for-the-badge&logo=battle.net&logoColor=148EFF" alt="aminhm#2262"/>
+    <img src="https://img.shields.io/badge/Origin : aminhm -FF8000?style=for-the-badge&logo=origin&logoColor=white" alt="aminhm"/>
   
  </p>
 
 ----
-<p align="center"><img src="https://profile-counter.glitch.me/{aminhm}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>
+<p gn="center"><img src="https://profile-counter.glitch.me/{aminhm}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></p>

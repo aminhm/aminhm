@@ -8,41 +8,40 @@
 <!--
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-# Hey there👋, I'm Ali!
+# Hey there👋, I'm Amin!
  <p align="left">
-  <a href="https://www.linkedin.com/in/alidev7/" target="_blank">
+  <a href="https://www.linkedin.com/in/amin-hasanzadeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
   </a>
-  <a href="https://stackoverflow.com/users/10786639/ali-ahmadi" target="_blank">
+<!--   <a href="https://stackoverflow.com/users/10786639/ali-ahmadi" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="example"/>
-  </a>
-  <a href="https://t.me/AliDev77" target="_blank">
+  </a> -->
+<!--   <a href="https://t.me/AliDev77" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:ahmadi.ali2219@gmail.com" target="_blank">
+  </a> -->
+  <a href="mailto:aminhasanzadeh1999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=989370692219" target="_blank">
+<!--   <a href="https://api.whatsapp.com/send?phone=989370692219" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="example"/>
-  </a>
-  <a href="https://discordapp.com/users/551885099000659978" target="_blank">
+  </a> -->
+<!--   <a href="https://discordapp.com/users/551885099000659978" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
-  </a>
-  <a href="https://www.instagram.com/ali.ahmadi.d7/" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/amin.hm.life/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
   </a>
 </p>
 
 ### Glad to see you here!
-I'm Ali Ahmadi and I like experimenting with new technologies, building small projects, and occassionally solving bugs!. ✨
+I'm Amin Hasanzadeh and I like experimenting with new technologies, building small projects, and occassionally solving bugs!. ✨
 I have good problem-solving skills and Able to perform well in a team. ☺️
  
 ### If you want to know me more :
 
-- 💻 Currently working, learning and growing my skillset in Web Developing and Blockchain.
+- 💻 Currently working, learning and growing my skillset in Machine Learning.
 - 💻 I love exploring new tech stack and building cool stuffs.
-- 🗃️ My favourite Framework is **Asp.Net Core** (C#).
-- 🧐 I’m curious about **Blockchain** and **Crypto Currency**.
+- 🧐 I’m curious about **Machine Learning**, **Web Frameworks** and **Mobile Development**.
 - 🤖 I’m interested in **Video Games** and **Cinema**.
 - ❄️ I’m looking to collaborate on useful Open Source Projects.
 - 🥂 Get in touch with me 👆🏻
